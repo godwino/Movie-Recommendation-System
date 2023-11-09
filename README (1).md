@@ -48,6 +48,13 @@ git clone https://github.com/godwino/Movie-Recommendation-System.git
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
+  Findings and Conclusions
+Our analysis revealed the strengths and limitations of each recommendation system. Rank-based recommendation systems are simple and effective for popular items but may not personalize well. Collaborative filtering models, both user-user and item-item, provide more personalized recommendations but can face challenges like cold start and scalability. Matrix factorization models offer a balance by capturing latent factors and can scale better with large datasets.
+
+The use of A/B Testing, a vital part of assessing the efficacy of these systems, is recommended to determine the real-world performance of the recommendation engines. It provides a framework for making data-driven decisions on which system best meets the needs of the user base.
+
+For more detailed insights and results, refer to the analysis sections within the Jupyter Notebook.
+
 
 
 
