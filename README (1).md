@@ -25,11 +25,11 @@ Please adhere to this project's `code of conduct`.
 
 
 ## Features
-Personalized recommendations based on user ratings
-Collaborative filtering to find movies similar users liked
-Content-based filtering to suggest movies similar to those you've rated highly
-A user-friendly interface for rating and discovering movies
-An extensive database of movies from various genres
+Personalized recommendations based on user ratings.
+Collaborative filtering to find movies similar users liked.
+Content-based filtering to suggest movies similar to those you've rated highly.
+A user-friendly interface for rating and discovering movies.
+An extensive database of movies from various genres.
 
 
 
